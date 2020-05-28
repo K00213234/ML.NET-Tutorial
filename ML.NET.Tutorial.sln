@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30114.128
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML.NET.Tutorial", "ML.NET.Tutorial\ML.NET.Tutorial.csproj", "{B9F2BD88-C106-4D0B-AC08-9D7CACED2754}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.NET.TutorialML.Model", "ML.NET.TutorialML.Model\ML.NET.TutorialML.Model.csproj", "{BE0580C5-2F16-4266-845E-D14E0B900998}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML.NET.TutorialML.ConsoleApp", "ML.NET.TutorialML.ConsoleApp\ML.NET.TutorialML.ConsoleApp.csproj", "{9F45F9D5-9B70-40CF-AF7E-15291E448E87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B9F2BD88-C106-4D0B-AC08-9D7CACED2754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F2BD88-C106-4D0B-AC08-9D7CACED2754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F2BD88-C106-4D0B-AC08-9D7CACED2754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0580C5-2F16-4266-845E-D14E0B900998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0580C5-2F16-4266-845E-D14E0B900998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0580C5-2F16-4266-845E-D14E0B900998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0580C5-2F16-4266-845E-D14E0B900998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F45F9D5-9B70-40CF-AF7E-15291E448E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F45F9D5-9B70-40CF-AF7E-15291E448E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F45F9D5-9B70-40CF-AF7E-15291E448E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F45F9D5-9B70-40CF-AF7E-15291E448E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
